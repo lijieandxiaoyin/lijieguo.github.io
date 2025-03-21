@@ -1,8 +1,8 @@
 ---
-title: "Evaluation of tomato fruit quality response to water and nitrogen management under alternate partial root-zone irrigation"
+title: "Effect of drip-line layout and irrigation amount on yield, irrigation water use efficiency, and quality of short-season tomato in Northwest China"
 collection: publications
 category: manuscripts
-permalink:
+permalink: https://www.sciencedirect.com/science/article/pii/S0378377422002785
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
