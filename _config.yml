@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lijie Guo"
-  pronouns         : # example: "Mr."  
+  pronouns         : "Mr."  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Canada"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "University of Saskatchewan"
+  URI              : "https://water.usask.ca/about/profiles/people/lijie-guo.php“”
+  email            : "lijie.guo@usask.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
