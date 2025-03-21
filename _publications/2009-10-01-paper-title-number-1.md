@@ -2,7 +2,7 @@
 title: "Evaluation of tomato fruit quality response to water and nitrogen management under alternate partial root-zone irrigation"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](http://www.ijabe.net/en/article/pdf/preview/10.25165/j.ijabe.20171005.2622.pdf)
+permalink:
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
