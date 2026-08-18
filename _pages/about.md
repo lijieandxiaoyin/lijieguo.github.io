@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Lijie Guo, PhD, EIT, AAg"
 author_profile: true
 redirect_from: 
   - /about/
