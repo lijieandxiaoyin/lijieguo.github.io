@@ -22,7 +22,7 @@ repository               : "https://github.com/lijieandxiaoyin/lijieguo.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lijie_Guo_July_2025.jpg"
+  avatar           : "images/Lijie_Guo_July_2025.jpg"
   name             : "Lijie Guo"
   pronouns         : "Dr./He/Him/His"  
   bio              : "PhD in Civil Engineering (Agro-hydrology). Interested in precision agriculture, hydrologic and crop modeling, and quantifying hydrological effects of climate and land-use change."
