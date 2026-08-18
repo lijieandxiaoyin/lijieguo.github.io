@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lijie Guo"
-  pronouns         : "Mr."  
-  bio              : "PhD Candidate. Interested in irrigation, hydrologic modeling, and hydrological effects quantifying."
+  pronouns         : "Dr./He/Him/His"  
+  bio              : "PhD in Civil Engineering (Agro-hydrology). Interested in precision agriculture, hydrologic and crop modeling, and quantifyingh ydrological effects of climate and land-use change."
   location         : "Canada"
   employer         : "University of Saskatchewan"
   URI              : "https://water.usask.ca/about/profiles/people/lijie-guo.php"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/lijieandxiaoyin"
+  github           : "https://github.com/lijie"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
